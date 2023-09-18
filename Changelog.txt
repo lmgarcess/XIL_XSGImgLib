@@ -1,0 +1,573 @@
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Nov 07 00:02:59 2017 -- Version 2.0 Build 98
+  ! XSGLIB/Color Space Conversion/XIL RGB to YCbCr Fixing Issues
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sun Nov 05 00:10:29 2017 -- Version 2.0 Build 94
+  ! Adding ABS option to XIL Module RGB-YCbCr
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Nov 03 18:27:47 2017 -- Version 2.0 Build 93
+  ! Fixing Data Type problems XIL Module RGB-YCbCr
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Nov 02 18:49:58 2017 -- Version 2.0 Build 89
+  - XSGLIB/Image Processing Tool Box/Statistical/Statistical Calculation/XIL Mean
+  ! XSGLIB/Image Processing Tool Box/Statistical/Statistical Calculation/XIL MeanVar Configurable Mean - Variance - Mean/Variance Operation
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 31 17:10:51 2017 -- Version 2.0 Build 87
+  - XSGLIB/Color Space Conversion/XIL YCbCr to RGB
+  ! XSGLIB/Color Space Conversion/XIL RGB to YCbCr Included conversion form YCbCr to RGB in the same module
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 31 15:49:18 2017 -- Version 2.0 Build 84
+  + XSGLIB/Control Logic/Generic/XIL Module RGB-YCbCr
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 20 11:40:38 2017 -- Version 2.0 Build 82
+  ! BUGFIX Problems with the quantization option of the blocks
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 19 18:33:23 2017 -- Version 2.0 Build 78
+  + XSGLIB/Image Processing Tool Box/Point Operations/XIL Negative Filter
+  +  XSGLIB/Image Processing Tool Box/Linear Filters/Generic/XIL Negative Filter
+  ! Quantization selecction bug fixed 
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 19 16:02:28 2017 -- Version 2.0 Build 70
+  + XSGLIB/Control Logic/Generic/XIL Module Negative
+
+Luis Manuel Garcés Socarás, Dr.C. -- Wed Oct 11 17:45:53 2017 -- Version 2.0 Build 68
+  ! New Version XSGLIB/Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD K
+
+Luis Manuel Garcés Socarás, Dr.C. -- Wed Oct 11 16:20:24 2017 -- Version 2.0 Build 65
+  ! New Version XSGLIB/Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD H&O
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 10 14:16:18 2017 -- Version 2.0 Build 63
+  ! New Version XSGLIB/Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD R&H
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 19:31:21 2017 -- Version 2.0 Build 62
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Generic/XIL 3x3 Convolution
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Generic/XIL 5x5 Convolution
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Generic/XIL Generic Convolution
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Edge Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Edge Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Edge Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Laplace Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Sobel X Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Edge Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Sobel Y Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Sobel X-Y Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Prewitt X Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Prewitt Y Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Prewitt X-Y Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Sharpen Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Blur Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Smooth Filter
+  + XSGLIB/Image Processing Tool Box/Linear Filters/Specific/XIL Gaussian Filter
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 3x3 Basic Morphologic Operator
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 3x3 Adv Morphologic Operator
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 3x3 Rank2D
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 5x5 Basic Morphologic Operator
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 5x5 Adv Morphologic Operator
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Generic/XIL 5x5 Rank2D
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Specific/XIL 3x3 Median2D
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Specific/XIL Threshold
+  + XSGLIB/Image Processing Tool Box/Non Linear Filters/Specific/XIL Logarithm Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 19:14:21 2017 -- Version 2.0 Build 59
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL 5x5 Rank2D
+  - XSGLIB/Image Processing Tool Box/Non Linear Filters/Kernel 5x5/Rank 2D Sorting Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 18:34:50 2017 -- Version 2.0 Build 57
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL 3x3 Rank2D
+  - XSGLIB/Image Processing Tool Box/Non Linear Filters/Kernel 3x3/Rank 2D Sorting Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 16:19:44 2017 -- Version 2.0 Build 56
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL 3x3 Median2D
+  - XSGLIB/Image Processing Tool Box/Non Linear Filters/Kernel 3x3/Median 2D Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 16:14:30 2017 -- Version 2.0 Build 54
+  ! Fixing XIL 3x3 Convolution
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 14:57:17 2017 -- Version 2.0 Build 52
+  ! Fix XIL Generic Convolution
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 09 14:21:57 2017 -- Version 2.0 Build 49
+  ! Fixing XIL Conv Column
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sat Oct 07 17:47:59 2017 -- Version 2.0 Build 45
+  +XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL Blur Filter
+  +XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL Smooth Filter
+  +XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL Gaussian Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Specific/XIL Blur Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Specific/XIL Smooth Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Specific/XIL Gaussian Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Specific
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sat Oct 07 17:14:49 2017 -- Version 2.0 Build 42
+  +XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Sharpen Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Specific/XIL Sharpen Filter
+  -XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Specific
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sat Oct 07 17:04:30 2017 -- Version 2.0 Build 41
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Prewitt X Filter
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Prewitt Y Filter
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Prewitt X-Y Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Prewitt X Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Prewitt Y Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Prewitt X-Y Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 06 19:45:35 2017 -- Version 2.0 Build 40
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Sobel X-Y
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Sobel X-Y
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 06 19:36:38 2017 -- Version 2.0 Build 39
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Sobel Y Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Sobel Y Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 06 19:28:42 2017 -- Version 2.0 Build 38
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Sobel X Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Sobel X Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 06 19:08:46 2017 -- Version 2.0 Build 37
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Laplace Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Specific/XIL Laplace Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Fri Oct 06 18:31:59 2017 -- Version 2.0 Build 36
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL Edge Filter
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Specific/XIL Edge Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 05 23:45:58 2017 -- Version 2.0 Build 34
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL 5x5 Adv Morphologic Operator
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Generic/XIL Adv Morphologic Operator
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Generic
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 05 22:58:40 2017 -- Version 2.0 Build 33
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL 3x3 Adv Morphologic Operator
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Adv Morphologic Operator
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 05 18:06:56 2017 -- Version 2.0 Build 32
+  ! Fixing configuration Issues with XIL YxY Basic Morpologic Operator
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 05 16:07:27 2017 -- Version 2.0 Build 30
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL 5x5 Morphologic Operator
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Generic/XIL Morphologic Operator
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Oct 05 13:02:20 2017 -- Version 2.0 Build 29
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL 3x3 Basic Morphologic Operator
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Basic Morphologic Operator
+
+Luis Manuel Garcés Socarás, Dr.C. -- Wed Oct 04 19:48:21 2017 -- Version 2.0 Build 27
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/XIL 5x5 Convolution
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 5x5/Generic/XIL Convolution
+
+Luis Manuel Garcés Socarás, Dr.C. -- Wed Oct 04 18:40:31 2017 -- Version 2.0 Build 25
+  + XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/XIL 3x3 Convolution
+  - XSGLIB/Image Processing Tool Box/Window Operations/Kernel 3x3/Generic/XIL Convolution
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 03 17:12:37 2017 -- Version 2.0 Build 23
+  + Color Space Conversion/XIL YCbCr to RGB
+  - Color Space Conversion/YCbCr to RGB Conv
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 03 15:25:41 2017 -- Version 2.0 Build 22
+  + Color Space Conversion/XIL RGB to YCbCr
+  - Color Space Conversion/RGB to YCbCr Conv
+
+Luis Manuel Garcés Socarás, Dr.C. -- Tue Oct 03 11:58:09 2017 -- Version 2.0 Build 19
+  ! Fixing XIL Logaritm Filter
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 02 19:04:17 2017 -- Version 2.0 Build 18
+  ! Fixing XIL Threshold
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 02 12:39:55 2017 -- Version 2.0 Build 17
+  ! Fixing XIL RGB to Gray
+
+Luis Manuel Garcés Socarás, Dr.C. -- Mon Oct 02 12:13:52 2017 -- Version 2.0 Build 15
+  + Control Logic/3x3/XIL 3x3 Register
+  + Control Logic/5x5/XIL 5x5 Register
+  - Control Logic/3x3/Register
+  - Control Logic/5x5/Register
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sun Oct 01 16:44:22 2017 -- Version 2.0 Build 13
+  ! Fixing XIL Line 5x5 Buffer
+
+Luis Manuel Garcés Socarás, Dr.C. -- Sun Oct 01 16:32:17 2017 -- Version 2.0 Build 12
+  ! Fixing XIL Line 3x3 Buffer
+
+Luis Manuel Garcés Socarás, Dr.C. -- Thu Sep 28 13:36:16 2017 -- Version 2.02
+  ! Major Changes
+
+Luis Manuel Garcés Socarás, MSc. -- Wed Sep 27 18:49:53 2017 -- Version 1.555
+  ! Working in major bug fixes
+
+Luis Manuel Garcés Socarás, MSc. -- Tue Sep 26 16:42:58 2017 -- Version 1.553
+  + Control Logic/OLD
+  - Control Logic/3x3/Line Buffer
+  - Control Logic/3x3/Line 2 Buffer
+  - Control Logic/3x3/Register
+  - Control Logic/5x5/Line Buffer
+  - Control Logic/5x5/Line 2 Buffer
+  - Control Logic/5x5/Register
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Sep 25 18:42:03 2017 -- Version 1.552
+  ! Fixing /Control Logic/5x5/Line 5 Buffer
+ ! Rename /Control Logic/5x5/Line 5 Buffer to /Control Logic/5x5/XIL Line 5x5 Buffer
+  ! Rename /Control Logic/3x3/Line 3 Buffer to /Control Logic/3x3/XIL Line 3x3 Buffer
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Sep 25 17:23:46 2017 -- Version 1.549
+  ! Fixing Line 5 Buffer
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Sep 25 12:19:46 2017 -- Version 1.547
+  - Color Space Conversion/Gray to Pseusocolor
+  + Color Space Conversion/XIL Gray to Pseusocolor
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Sep 25 11:39:31 2017 -- Version 1.546
+  ! Change Name "Module Gray to RGB" to "XIL Module Gray to RGB" 
+
+Luis Manuel Garcés Socarás, MSc. -- Tue Jul 11 15:12:57 2017 -- Version 1.543
+  + Adding /Control Logic/Generic/Module Gray to RGB
+
+Luis Manuel Garcés Socarás, MSc. -- Thu Jun 29 15:39:12 2017 -- Version 1.541
+  + XIL RGB 565 to 888
+  - RGB 565 to 888 conv
+  - RGB 888 to 565 conv
+
+Luis Manuel Garcés Socarás, MSc. -- Thu Jun 29 11:23:56 2017 -- Version 1.540
+
+  ! Fixing Line 3 Buffer Latency
+  ! Fixing Line 5 Buffer Latency
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Jul 18 13:30:26 2016 -- Version 1.529
+  ! Change blocks distribution
+
+Luis Manuel Garcés Socarás, MSc. -- Sun Apr 24 20:54:23 2016 -- Version 1.527
+ ! Fixing Gray to Pseudocolor Name
+
+Luis Manuel Garcés Socarás, MSc. -- Thu Mar 31 11:39:41 2016 -- Version 1.526
+  ! Fixing limited entrance to the inputs
+
+Luis Manuel Garcés Socarás, MSc. -- Tue Mar 29 22:20:00 2016 -- Version 1.525
+  ! Fixing XIL Conv Column
+
+Luis Manuel Garcés Socarás, MSc. -- Tue Mar 29 22:14:02 2016 -- Version 1.524
+  ! Fixing XIL Generic Convolution Mask
+
+Luis Manuel Garcés Socarás, MSc. -- Tue Mar 29 21:53:22 2016 -- Version 1.523
+  ! Fixing line buffers problems
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Mar 28 21:55:18 2016 -- Version 1.522
+  + XSGLIB/Image Processing Tool Box/Window Operations/Generic/XIL Generic Convolution
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Mar 28 21:48:40 2016 -- Version 1.520
+  + XSGLIB/Control Logic/Generic/XIl Conv Column
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Mar 28 21:45:07 2016 -- Version 1.519
+  + XSGLIB/Control Logic/5x5/Line 5 buffer
+  + XSGLIB/Control Logic/3x3/Line 3 buffer
+
+Luis Manuel Garcés Socarás, MSc. -- Sun Mar 20 01:03:51 2016 -- Version 1.517
+  ! FIX problems with Threshold
+
+Luis Manuel Garcés Socarás, MSc. -- Sat Mar 19 23:37:41 2016 -- Version 1.513
+  ! Deleting Unconnected lines
+
+Luis Manuel Garcés Socarás, MSc. -- Fri Mar 18 21:03:23 2016 -- Version 1.512
+  + Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD R&H
+  + Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD H&O
+  + Image Processing Tool Box/Spatio-Temporal/Motion Detector/XIL EMD K
+
+Luis Manuel Garcés Socarás, MSc. -- Sat Dec 12 23:00:32 2015 -- Version 1.511
+  ! Changing Name XIL Median Arith
+
+Luis Manuel Garcés Socarás, MSc. -- Mon Nov 23 23:17:44 2015 -- Version 1.510
+  !No Changes
+
+V1.503
+2015-11-23
+  + Image Processing Tool Box\Statistical\Histogram\XIL BBi-Histogram EQ
+  + Image Processing Tool Box\Statistical\Statistical Calculation\XIL Median
+  + Image Processing Tool Box\Statistical\Statistical Calculation\XIL Mean
+  + Image Processing Tool Box\Statistical\Statistical Calculation\XIL MeanVar
+  + Image Processing Tool Box\Statistical\Statistical Calculation\XIL OTSUs Threshold
+
+V1.43
+2015-09-02
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Edge
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Laplace
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Sobel X
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Sobel Y
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Sobel X-Y
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Prewitt X
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Prewitt Y
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Prewitt X-Y
+  + Image Processing Tool Box\Window Operations\3x3\Specific\XIL Sharpen
+  + Image Processing Tool Box\Window Operations\5x5\Specific\XIL Blur
+  + Image Processing Tool Box\Window Operations\5x5\Specific\XIL Smooth
+  + Image Processing Tool Box\Window Operations\5x5\Specific\XIL Gaussian
+2015-07-28
+	- Image Processing Tool Box\Morphological Operators
+	+ Image Processing Tool Box\Statistical\Histogram
+		+ XIL Histogram Calc
+		+ XIL Cummulative Histogram
+		+ XIL Histogram EQ
+		+ XIL Cummulative BBHE
+		! Calculate latency for 2-Way and 1-Way arch
+	+ Control Logic\Generic\XIL ORD\XIL Histogram Memory
+	+ Control Logic\Generic\XIL Histogram SP Memory
+	+ Control Logic\Generic\XIL Slope SP Memory
+	+ Control Logic\Generic\XIL Histogram Controller
+	+ Control Logic\Generic\XIL Histogram EQ Controller
+	+ Control Logic\Generic\XIL BBHE Slope Controller
+	+ Control Logic\Generic\XIL BBHE Slope Calc
+		! Use Divider Generator 3.0, correct timming
+	+ Control Logic\Generic\XIL BBHE Slope Calc1
+		! Use Divide, incorrect timming
+	+ Control Logic\Generic\XIL ORD\XIL Line Buffer Controller
+		! Not tested yet
+	+ Control Logic\Generic\XIL ORD\XIL Video Signals Controller
+		! Not tested yet
+	+ Control Logic\Generic\XIL ORD\XIL Frame Encoder
+		! Not tested yet
+	+ Image Processing Tool Box\Window Operations\3x3\Generic\XIL Basic Morphologic Operator
+		! Working,Tested, Analisys of column similarity
+	+ Image Processing Tool Box\Window Operations\3x3\Generic\XIL Basic Morphologic Operator1
+		! Reduced operations, not analisys of column similarity
+	+ Image Processing Tool Box\Window Operations\3x3\Generic\XIL Basic Morphologic Operator2
+		! not Reduced operations, not analisys of column similarity
+	+ Image Processing Tool Box\Window Operations\5x5\Generic\XIL Basic Morphologic Operator
+		! Working,Tested, Analisys of column similarity
+	+ Image Processing Tool Box\Window Operations\5x5\Generic\XIL Basic Morphologic Operator1
+		! Reduced operations, not analisys of column similarity
+	+ Image Processing Tool Box\Window Operations\5x5\Generic\XIL Basic Morphologic Operator2
+		! not Reduced operations, not analisys of column similarity
+
+V1.3
+2015-04-26
+	+ Image Processing Tool Box\Window Operations\3x3\Generic\XIL Basic Morphologic Operator1
+ 	+ Image Processing Tool Box\Window Operations\5x5\Generic\XIL Basic Morphologic Operator1
+		! Configurable Dilation/Erosion Operator Change of arquitecture
+		+ Adding operations Top Hat/Black Hat to the Dialtion/Erosion Block
+		! Not tested yet
+
+2015-04-20
+  ! Configurable block still under development, nor working yet
+  - Image Processing Tool Box\Window Operations\Generic\XIL Convolution
+  + Control Logic\Generic\XIL ORD
+	! Configurable clocks for 3 or 5 pixels comparision and MAX/MIN operation
+  + Image Processing Tool Box\Window Operations\3x3\Generic\XIL Basic Morphologic Operator
+  + Image Processing Tool Box\Window Operations\5x5\Generic\XIL Basic Morphologic Operator
+	! Configurable Dilation/Erosion Operator
+  + Image Processing Tool Box\Window Operations\3x3\Generic\XIL Adv Morphologic Operator
+  + Image Processing Tool Box\Window Operations\5x5\Generic\XIL Adv Morphologic Operator
+	! Configurable Opening/Closing Operator
+
+2014-12
+  * New Name XIL -XSG Image Processing Library
+  * New Icon
+  + Image Processing Tool Box\Window Operations\Generic Palete
+  + Image Processing Tool Box\Window Operations\Generic\XIL Convolution
+	! Fully configurable convolution operator with excecution improvements
+  + Control Logic\Generic\XIL Adder
+  + Control Logic\Generic\XIL ABS
+  + Control Logic\Generic\XIL Mult 
+  + Control Logic\Generic\XIL Delay
+  + Control Logic\Generic\XIL Register
+	! Fully configurable blocks with enable selection
+
+V1.2
+2014-05-13
+  + Point Operations Palete
+  + Point Operations\Negative Filter
+  + Window Operation Palete
+  * Redistributing Linear and Non Linear Aplication in the new palete structure 
+  ! New Palete structuration
+    . Image Processing Tool Box
+      . Point Operations
+        . Negative Filter
+        . Threshold
+      . Window Operations
+        . Kernel 3x3
+          . Generic
+	    .Convolution Non Symmetric Matrix Full Accuracy
+            .Convolution Non Symmetric Matrix Full Normalized
+            .Convolution Symmetric Matrix Full Accuracy
+            .Convolution Symmetric Matrix Full Normalized 
+            .Rank 2D Sorting Filter
+            .Dilate
+            .Erode
+            .Opening
+            .Closing
+          . Specific
+            .Sobel X Filter
+            .Sobel Y Filter
+            .Sobel X-Y Filter
+            .Prewitt X Filter
+            .Prewitt Y Filter
+            .Prewitt X-Y Filter
+            .Edge Filter
+            .Laplace Filter
+            .Sharpen Filter
+	    .Median 2D Filter
+        . Kernel 5x5
+          . Generic
+            .Convolution Non Symmetric Matrix Full Accuracy
+            .Convolution Non Symmetric Matrix Full Normalized
+            .Convolution Symmetric Matrix Full Accuracy
+            .Convolution Symmetric Matrix Full Normalized
+            .Rank 2D Sorting Filter
+            .Dilate
+            .Erode
+            .Opening
+            .Closing
+          . Specific
+            .Blur Filter
+            .Smooth Filter
+            .Gaussian Filter
+      . Lienar Filters
+        . Kernel 3x3
+          .Convolution Non Symmetric Matrix Full Accuracy
+          .Convolution Non Symmetric Matrix Full Normalized
+          .Convolution Symmetric Matrix Full Accuracy
+          .Convolution Symmetric Matrix Full Normalized 
+          .Sobel X Filter
+          .Sobel Y Filter
+          .Sobel X-Y Filter
+          .Prewitt X Filter
+          .Prewitt Y Filter
+          .Prewitt X-Y Filter
+          .Edge Filter
+          .Laplace Filter
+          .Sharpen Filter
+        . Kernel 5x5
+          .Convolution Non Symmetric Matrix Full Accuracy
+          .Convolution Non Symmetric Matrix Full Normalized
+          .Convolution Symmetric Matrix Full Accuracy
+          .Convolution Symmetric Matrix Full Normalized
+          .Blur Filter
+          .Smooth Filter
+          .Gaussian Filter
+      . Non Linear Filters
+        . 3x3 Kernel
+          .Median 2D Filter
+          .Rank 2D Sorting Filter
+        . 5x5 Kernel
+          .Rank 2D Sorting Filter
+      . Morphological Operators
+        . 3x3 Kernel
+          .Dilate
+          .Erode
+          .Opening
+          .Closing
+        . 5x5 Kernel
+          .Dilate
+          .Erode
+          .Opening
+          .Closing
+    . Color Space Conversion
+      .RGB 565 to RGB 888 Conv
+      .RGB 888 to RGB 565 Conv
+      .RGB to Gray Conv
+      .Gray to Pseudocolour Conv
+      .RGB to YCbCr Conv
+      .YCbCr to RGB Conv 
+    . Control Logic
+      . 3x3 Kernel
+        .Line Buffer
+        .Line 2 Buffer
+        .Register
+      . 5x5 Kernel
+        .Line Buffer
+        .Line 2 Buffer
+        .Register
+      . Generic
+        .ABS
+        .VDTC
+        .Under development Blocks
+v1.1
+2014-05-03
+  + Color Space Convertion\YCbCr_to_RGB_Conv Block
+
+2014-05-02
+  + Color Space Convertion\RGB_to_YCbCr_Conv Block
+
+2014-04-29
+  + Color Space Convertion\Gray_to_Pseudocolour_Conv Block
+  + Color Space Convertion\RGB_to_Gray_Conv Block
+
+2014-04-28
+  + Color Space Convertion\RGB_888_to_RGB_565_Conv Block
+
+2014-04-27
+  + Color Space Convertion palete
+  + Color Space Convertion\RGB_565_to_RGB_888_Conv Block
+
+2014-03-03
+  + Line Buffer 2 blocks, fixed columns size greater than 1024 pixels
+
+2013-08-08  
+v1.0 
+  Initial Release
+  + changelog.txt started
+
+
+  Available processing blocks
+    .Image Processing Tool Box
+        .Linear Filters
+            .3x3 Kernel
+                .Generic
+                    .Convolution Non Symmetric Matrix Full Accuracy
+                    .Convolution Non Symmetric Matrix Full Normalized
+                    .Convolution Symmetric Matrix Full Accuracy
+                    .Convolution Symmetric Matrix Full Normalized 
+                .Specific
+                    .Sobel X Filter
+                    .Sobel Y Filter
+                    .Sobel X-Y Filter
+                    .Prewitt X Filter
+                    .Prewitt Y Filter
+                    .Prewitt X-Y Filter
+                    .Edge Filter
+                    .Laplace Filter
+                    .Sharpen Filter
+            .5x5 Kernel
+                .Generic
+                    .Convolution Non Symmetric Matrix Full Accuracy
+                    .Convolution Non Symmetric Matrix Full Normalized
+                    .Convolution Symmetric Matrix Full Accuracy
+                    .Convolution Symmetric Matrix Full Normalized
+                .Specific
+                    .Blur Filter
+                    .Smooth Filter
+                    .Gaussian Filter
+        .Non Linear Filters
+            .3x3 Kernel
+                .Median 2D Filter
+                .Rank 2D Sorting Filter
+            .5x5 Kernel
+                .Rank 2D Sorting Filter
+            .Bit Operators
+                .Threshold
+        .Morphologic Operators
+            .3x3 Kernel
+                .Dilate
+                .Erode
+                .Opening
+                .Closing
+            .5x5 Kernel
+                .Dilate
+                .Erode
+                .Opening
+                .Closing
+    .Cotrol Logic
+            .3x3 Kernel
+                .Line Buffer
+                .Register
+            .5x5 Kernel
+                .Line Buffer
+                .Register
+            .Generic
+                .ABS
+                .VDTC
+                .Under development Blocks
+  
+
+====
+  Legend:
+  + added
+  - removed
+  * modified
+  ! important message
